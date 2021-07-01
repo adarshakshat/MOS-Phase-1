@@ -7,5 +7,12 @@
 
 #include "Storage.h"
 #include "VirtualMachine.h"
+ifstream inputfile;
+//Output File Stream
+ofstream outputfile;
+int SI;
+VirtualMachine cpu;
+Storage memory;
+
 
 #endif //PHASE1_GLOBAL_H

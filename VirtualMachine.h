@@ -23,5 +23,4 @@ public:
     void execute();
 };
 
-VirtualMachine cpu;
 #endif //PHASE1_VIRTUALMACHINE_H
